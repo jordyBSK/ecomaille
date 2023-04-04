@@ -5,10 +5,10 @@
 ## Features
 
 - Calculate future expenses for the next month
-- Visualization of expenses with a graph
+- Visualization of expenses with a chart
 - Creation of a personalized budget based on the client's salary
 
-## version
+## Version
 Smartphone: https://jordybsk.github.io/ecomaille/
 
 Desktop: https://jordybsk.github.io/ecomaille2/
