@@ -9,8 +9,8 @@
 - Creation of a personalized budget based on the client's salary
 
 ## version
-desktop: https://jordybsk.github.io/ecomaille/
+Desktop: https://jordybsk.github.io/ecomaille/
 
-smartphone: https://jordybsk.github.io/ecomaille2/
+Smartphone: https://jordybsk.github.io/ecomaille2/
 
 
