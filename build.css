@@ -521,8 +521,8 @@ video {
   margin-bottom: 2rem;
 }
 
-.ml-16 {
-  margin-left: 4rem;
+.ml-20 {
+  margin-left: 5rem;
 }
 
 .ml-9 {
@@ -704,6 +704,24 @@ video {
 .text-base {
   font-size: 1rem;
   line-height: 1.5rem;
+}
+
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+.font-semibold {
+  font-weight: 600;
+}
+
+.uppercase {
+  text-transform: uppercase;
 }
 
 .text-white {
